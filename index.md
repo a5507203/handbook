@@ -139,7 +139,7 @@ MassGen welcomes contributions across four distinct tracks. Each track has its o
 | **Marketing** | Social media, content, partnerships | justin_zhang | [@voidcenter](https://github.com/voidcenter) |
 | **Development** | Code, tests, docs, bug fixes | nickcrispino, danrui2020 | [@ncrispino](https://github.com/ncrispino), [@qidanrui](https://github.com/qidanrui) |
 
-For detailed contact information, communication channels, and response times, see the [Contact Directory]
+For detailed contact information, communication channels, and response times, see the [Contact Directory](resources#contact-directory)
 
 **Full Team Directory:** See the [Team Spreadsheet](https://docs.google.com/spreadsheets/d/1pNmMOdEmqb6TKOPjhk3NBPJWCWMvTTDaq1FufLfL3j4/edit?gid=0#gid=0)
 
