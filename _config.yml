@@ -1,0 +1,112 @@
+# MassGen Contributor Handbook - Jekyll Configuration
+
+# Site settings
+title: MassGen Contributor Handbook
+description: Multi-Agent Scaling System for GenAI - Complete contribution guide
+version: 0.1.8
+baseurl: "" # Leave empty if hosting at username.github.io/repo-name
+url: "" # Your GitHub Pages URL
+
+# Repository information
+repository: massgen/MassGen
+github_username: massgen
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Enable plugins
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Kramdown settings for better markdown rendering
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false
+
+# Navigation structure
+navigation:
+  - title: Home
+    url: /
+
+  - title: Contribution Tracks
+    children:
+      - title: Research Track
+        url: /research
+      - title: Case Studies Track
+        url: /case-studies
+      - title: Marketing Track
+        url: /marketing
+
+  - title: Development Pipeline
+    children:
+      - title: 1. Issues
+        url: /issues
+      - title: 2. Development
+        url: /development
+      - title: 3. Documentation
+        url: /documentation
+      - title: 4. Release
+        url: /release
+      - title: 5. Announcements
+        url: /announcement
+
+  - title: Resources
+    children:
+      - title: Resources & Links
+        url: /resources
+      - title: Glossary
+        url: /glossary
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - .sass-cache
+  - .jekyll-cache
+  - .gitignore
+  - README.md
+  - HANDBOOK(1).md
+
+# Collections (optional, for future organization)
+collections:
+  tracks:
+    output: true
+    permalink: /:collection/:name
+
+# Default front matter
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "tracks"
+    values:
+      layout: "default"
+
+# Social links
+social_links:
+  github: massgen/MassGen
+  discord: https://discord.gg/VVrT2rQaz5
+  twitter: massgen_ai
+
+# SEO settings
+author: MassGen Team
+twitter:
+  username: massgen_ai
+  card: summary_large_image
+logo: /assets/images/logo.png
+
+# Mermaid support (for diagrams)
+mermaid:
+  enabled: true
