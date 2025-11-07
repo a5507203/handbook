@@ -10,6 +10,8 @@ permalink: /issues
 
 GitHub Issues track three types of contributions: case studies, features, and bugs.
 
+**Issues Page:** [github.com/massgen/MassGen/issues](https://github.com/massgen/MassGen/issues)
+
 ---
 
 ## Issue Types
@@ -18,25 +20,52 @@ GitHub Issues track three types of contributions: case studies, features, and bu
 
 Document real-world usage of MassGen.
 
-[Create case study issue](https://github.com/massgen/MassGen/issues/new)
+**Create issue:** [github.com/massgen/MassGen/issues/new](https://github.com/massgen/MassGen/issues/new)
 
-**Label:** `enhancement` or `research`
+**Labels to use:**
+- `research` - For research-oriented case studies
+- `enhancement` - For case studies that suggest improvements
+- `self-improvement` - If tied to self-improvement goal
+
+**What to include:**
+- Prompt - The task/prompt to test
+- Config file - Which agents, hyperparameters
+- Cmd - Command to run
+- Current behavior - What happens now
+- Expected behavior - What should happen
+- How this ties to goals - Connection to self-improvement
+
+See [Case Studies Guide](case-studies) for detailed workflow.
+
+---
 
 ### 2. Feature Issues
 
 Propose new features (usually from research meetings).
 
-[Create feature issue](https://github.com/massgen/MassGen/issues/new)
+**Create issue:** [github.com/massgen/MassGen/issues/new](https://github.com/massgen/MassGen/issues/new)
 
-**Label:** `feature` or `enhancement`
+**Labels to use:**
+- `feature` - For new feature requests
+- `enhancement` - For improvements to existing features
+- Additional domain labels: `memory`, `filesystem`, `interoperability`, `self-improvement`
+
+---
 
 ### 3. Bug Issues
 
 Report problems that need fixing.
 
-[Create bug issue](https://github.com/massgen/MassGen/issues/new)
+**Create issue:** [github.com/massgen/MassGen/issues/new](https://github.com/massgen/MassGen/issues/new)
 
 **Label:** `bug`
+
+**What to include:**
+- Steps to reproduce
+- Expected vs actual behavior
+- Environment (Python version, OS, MassGen version)
+- Error messages
+- Configuration file (remove API keys)
 
 ---
 
@@ -48,16 +77,18 @@ Report problems that need fixing.
 - `bug` - Something isn't working
 - `feature` - Feature requests
 - `enhancement` - New feature or request
+- `documentation` - Improvements or additions to documentation
 - `research` - Research-oriented tasks
 - `memory` - Memory functionality
 - `filesystem` - File system related
 - `interoperability` - Integration with other agent frameworks
 - `self-improvement` - Internal improvements
 
-**Search:**
+**Search examples:**
 ```
 is:issue label:bug is:open
-is:issue label:good-first-issue
+is:issue label:feature
+is:issue label:research
 is:issue "memory system"
 ```
 
@@ -65,7 +96,7 @@ is:issue "memory system"
 
 ## Claim an Issue
 
-1. Find an open issue
+1. Find an open, unassigned issue
 2. Comment: "I would like to work on this"
 3. Wait for assignment (1-2 days)
 4. Once assigned, create your branch and start work
