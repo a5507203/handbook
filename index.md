@@ -90,7 +90,7 @@ graph TB
 
 **Purpose:**
 - Share progress updates from each track owner
-- - Coordinate across all tracks (research, dev, docs, marketing)
+- Coordinate across all tracks (research, dev, docs, marketing)
 - Identify and address blockers
 - Align on priorities for the next day
 
