@@ -132,15 +132,15 @@ graph TB
 
 MassGen welcomes contributions across four distinct tracks. Each track has its own workflow, contacts, and contribution style. Pick the one that matches your skills and interests.
 
-| Track | What You Do | Contact (Discord) |
-|-------|-------------|-------------------|
-| **Research** | Propose features at research meetings | jeffreycho |
-| **Case Studies** | Document real-world usage examples | sealover8336 |
-| **Marketing** | Social media, content, partnerships | justin_zhang |
-| **Development** | Code, tests, docs, bug fixes | nickcrispino, danrui2020 |
-| **Documents** | Update documentation before releases | TBD |
-| **Announcement** | Share releases on social media | TBD |
-| **Onboarding** | Help new people become contributors | TBD |
+| Track | What You Do | Name | Contact (Discord) |
+|-------|-------------|------|-------------------|
+| **Research** | Propose features at research meetings | Jeffrey | jeffreycho |
+| **Case Studies** | Document real-world usage examples | Yu | sealover8336 |
+| **Marketing** | Social media, content, partnerships | Justin | justin_zhang |
+| **Development** | Code, tests, docs, bug fixes | Nick, Danrui | nickcrispino, danrui2020 |
+| **Documents** | Update documentation before releases | TBD | TBD |
+| **Announcement** | Share releases on social media | TBD | TBD |
+| **Onboarding** | Help new people become contributors | TBD | TBD |
 
 
 For detailed contact information, communication channels, and response times, see the [Contact Directory](resources#contact-directory)
