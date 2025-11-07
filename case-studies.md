@@ -6,7 +6,7 @@ description: "Document real-world usage"
 permalink: /case-studies
 ---
 
-# Case Studies Track
+# Case Studies Guide
 
 Document how MassGen solves real problems and drive feature development.
 
