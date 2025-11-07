@@ -130,4 +130,4 @@ Marketing runs independently in parallel with other tracks:
 
 ---
 
-[Back to Home](index) | [Previous: Case Studies](case-studies) | [Next: Development](development)
+[Back to Home](index) | [Previous: Announcements](announcement) | [Next: Resources](resources)

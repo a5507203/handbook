@@ -27,7 +27,7 @@ After PRs merge to `dev` branch and before merging `dev` to `main` for release.
 List all changes for the version:
 
 ```markdown
-## [v0.1.9] - 2025-11-XX
+## [v0.1.x] - 202X-XX-XX
 
 ### Added
 - New feature description
@@ -37,6 +37,13 @@ List all changes for the version:
 
 ### Changed
 - Enhancement description
+
+### Documentations, Configurations and Resources
+- All updated markdown files, `.yaml` config files and other resources (e.g. updated files for massgen website)
+
+### Technical Details
+- **Major Focus**: Current version focus on waht features
+- **Contributors**: Contributors for current version
 ```
 
 **Include:**
@@ -69,11 +76,18 @@ Update to reflect:
 
 ### API Documentation
 
-Update feature-related docs:
+**Note:** Developers write API documentation during development (see [Development Guide](development), step 4).
+
+**Verify completeness of:**
 - Function/class docstrings
 - Configuration options
 - Usage examples
 - Integration guides
+
+**Ensure quality:**
+- Documentation is clear and accurate
+- Examples are tested and working
+- All new features are documented
 
 ---
 
@@ -118,3 +132,7 @@ Update feature-related docs:
 
 ## Contact
 
+
+---
+
+[Back to Home](index) | [Previous: Development Guide](development) | [Next: Release Guide](release)

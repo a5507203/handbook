@@ -128,7 +128,7 @@ graph TB
 ---
 
 
-## Four Contribution Tracks
+## Contribution Tracks
 
 MassGen welcomes contributions across four distinct tracks. Each track has its own workflow, contacts, and contribution style. Pick the one that matches your skills and interests.
 
@@ -149,3 +149,4 @@ For detailed contact information, communication channels, and response times, se
 
 ---
 
+ [Next: Case Studies Guide](case-studies)

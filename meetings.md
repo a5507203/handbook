@@ -107,9 +107,12 @@ Quick round-robin updates (2-3 minutes per person):
 **Research Meeting Lead:**
 - **Jeffrey:** jeffreycho ([@JeffreyCh0](https://github.com/JeffreyCh0))
 
+**Sync Meeting Lead:**
+- **Yu Yao** Yu ([@a5507203](https://github.com/a5507203))
+
 **Daily Sync Coordination:**
 - Track owners report progress
 
 ---
 
-[Back to Home](index)
+[Back to Home](index) | [Previous: Resources](resources)

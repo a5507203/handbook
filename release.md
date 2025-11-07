@@ -76,23 +76,22 @@ On GitHub:
 ## Release Notes Format
 
 ```markdown
-## What's New in v0.1.9
+## What's New in v0.x.x
 
-### Added
-- Feature A: Description
-- Feature B: Description
+### Feature A: Description
 
-### Fixed
-- Bug fix A
-- Bug fix B
+### Feature B: Description
 
-### Changed
-- Enhancement A
-- Enhancement B
+### Getting Started
+- Include link to video demo or case study (if available)
+- Provide example `.yaml` configuration files for quick start
+- List relevant documentation guide
 
-### Contributors
-Thanks to @user1, @user2, @user3 for contributing to this release!
-
+## What's Changed
+- List all merged PRs with format: `type: description by @username in #PR`
+- Include types: feat, fix, docs, refactor, test, chore
+- Link to PR numbers for full details
+- Credit all contributors with @ mentions
 **Full Changelog:** v0.1.8...v0.1.9
 ```
 
@@ -138,4 +137,4 @@ After release, see [Announcements](announcement) for sharing with community.
 
 ---
 
-[Home](index) | [Documentation Guide](documentation) | [Announcements](announcement)
+[Home](index) | [Previous: Documentation Guide](documentation) | [Next: Announcements](announcement)

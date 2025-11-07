@@ -117,4 +117,4 @@ is:issue "memory system"
 
 ---
 
-[Home](index) | [Development Guide](development)
+[Back to Home](index) | [Previous: Case Studies Guide](case-studies) | [Next: Development Guide](development)

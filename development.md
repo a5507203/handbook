@@ -89,7 +89,23 @@ git commit -m "feat: add new feature"
 
 ---
 
-### 4. Submit PR
+### 4. Document API
+
+**Write API documentation:**
+- Add function/class docstrings
+- Document configuration options
+- Provide usage examples
+- Write integration guides
+
+**Documentation standards:**
+- Use clear, descriptive docstrings
+- Include parameter types and return values
+- Provide practical code examples
+- Explain common use cases
+
+---
+
+### 5. Submit PR
 
 **Push to your fork:**
 ```bash
@@ -109,7 +125,7 @@ git push origin feature/your-feature-name
 
 ---
 
-### 5. Review and Merge to dev
+### 6. Review and Merge to dev
 
 **Review process:**
 1. Automated checks run (CI)
@@ -163,3 +179,5 @@ git push origin feature/your-feature-name
 
 
 ---
+
+[Back to Home](index) | [Previous: Issues](Issues) | [Next: Documentation Guide](Documentation)
