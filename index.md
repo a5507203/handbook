@@ -135,12 +135,12 @@ MassGen welcomes contributions across four distinct tracks. Each track has its o
 | Track | What You Do | Name | Contact (Discord) |
 |-------|-------------|------|-------------------|
 | **Research** | Propose features at research meetings | Jeffrey | jeffreycho |
-| **Case Studies** | Document real-world usage examples | TBD | sealover8336 |
+| **Case Studies** | Document real-world usage examples | Aaron | sealover8336 |
 | **Marketing** | Social media, content, partnerships | Justin | justin_zhang |
 | **Development** | Code, tests, docs, bug fixes | Nick, Danrui | nickcrispino, danrui2020 |
-| **Documents** | Update documentation before releases | TBD | TBD |
-| **Announcement** | Share releases on social media | TBD | TBD |
-| **Onboarding** | Help new people become contributors | TBD | TBD |
+| **Documents** | Update documentation before releases | Henry | henry_weiqi |
+| **Announcement** | Share releases on social media | Yu | crinvo |
+| **Onboarding** | Help new people become contributors | Yu, Nick, Justin | crinvo, nickcrispino, justin_zhang |
 
 
 For detailed contact information, communication channels, and response times, see the [Contact Directory](resources#contact-directory)
