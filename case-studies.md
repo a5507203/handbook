@@ -96,11 +96,8 @@ We need to ensure each feature has a defined case study before development start
 
 ## Contact
 
-**Case Studies Track Owners:**
-
 **Aaron**
 - **Discord:** sealover8336
-- **GitHub:** [@TBD](https://github.com/TBD)
 
 ---
 

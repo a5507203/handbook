@@ -168,15 +168,11 @@ git push origin feature/your-feature-name
 
 ## Contact
 
-**Development Track:**
-
 **Nick Crispino**
 - **Discord:** nickcrispino
-- **GitHub:** [@ncrispino](https://github.com/ncrispino)
 
 **Danrui**
 - **Discord:** danrui2020
-- **GitHub:** [@qidanrui](https://github.com/qidanrui)
 
 ---
 

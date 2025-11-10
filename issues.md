@@ -107,9 +107,14 @@ is:issue "memory system"
 
 ## Contact
 
-**Development Track:** [Development Leaders](development#contact)
+**Danrui**
+- **Discord:** danrui2020
 
-**Case Studies Track:** [Case Studies Leader](case-studies#contact)
+**Jeffrey**
+- **Discord:** jeffreycho
+
+**Nick Crispino**
+- **Discord:** nickcrispino
 
 ---
 

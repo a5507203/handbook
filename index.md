@@ -128,19 +128,20 @@ graph TB
 ---
 
 
-## Contribution Tracks
+## Roles & Contact
 
 MassGen welcomes contributions across four distinct tracks. Each track has its own workflow, contacts, and contribution style. Pick the one that matches your skills and interests.
 
 | Track | What You Do | Name | Contact (Discord) |
 |-------|-------------|------|-------------------|
+| **Founder** | Lead project vision and strategy | Chi Wang | sonichi |
 | **Research** | Propose features at research meetings | Jeffrey | jeffreycho |
 | **Case Studies** | Document real-world usage examples | Aaron | sealover8336 |
-| **Marketing** | Social media, content, partnerships | Justin | justin_zhang |
-| **Development** | Code, tests, docs, bug fixes | Nick, Danrui | nickcrispino, danrui2020 |
+| **Development** | Code, tests, docs, bug fixes | Danrui, Nick | danrui2020, nickcrispino |
 | **Documents** | Update documentation before releases | Henry | henry_weiqi |
 | **Announcement** | Share releases on social media | Yu | crinvo |
-| **Onboarding** | Help new people become contributors | Yu, Nick, Justin | crinvo, nickcrispino, justin_zhang |
+| **Marketing** | Social media, content, partnerships | Justin | justin_zhang |
+| **Onboarding** | Help new people become contributors | Justin, Nick, Yu | justin_zhang, nickcrispino, crinvo |
 
 
 For detailed contact information, communication channels, and response times, see the [Contact Directory](resources#contact-directory)

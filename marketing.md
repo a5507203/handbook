@@ -118,15 +118,8 @@ Marketing runs independently in parallel with other tracks:
 
 ## Contact
 
-**Marketing Track Lead:**
-
 **Justin Zhang**
 - **Discord:** justin_zhang
-- **GitHub:** [@voidcenter](https://github.com/voidcenter)
-
-**Response Time:**
-- Discord: Usually within a few hours
-- For partnership inquiries: 
 
 ---
 

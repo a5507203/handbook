@@ -130,11 +130,11 @@ After release, see [Announcements](announcement) for sharing with community.
 
 ## Contact
 
-**Project Maintainers:**
+**Nick Crispino**
+- **Discord:** nickcrispino
 
-**Chi Wang**
-- **Discord:** sonichi
-- **GitHub:** [@sonichi](https://github.com/sonichi)
+**Henry**
+- **Discord:** henry_weiqi
 
 ---
 

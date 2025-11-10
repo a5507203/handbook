@@ -104,20 +104,11 @@ Quick round-robin updates (2-3 minutes per person):
 
 ## Contact
 
-**Research Meeting Lead:**
-
 **Jeffrey**
 - **Discord:** jeffreycho
-- **GitHub:** [@JeffreyCh0](https://github.com/JeffreyCh0)
-
-**Sync Meeting Lead:**
 
 **Yu**
 - **Discord:** Yu
-- **GitHub:** [@a5507203](https://github.com/a5507203)
-
-**Daily Sync Coordination:**
-- Track owners report progress
 
 ---
 

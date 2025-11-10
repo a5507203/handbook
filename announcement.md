@@ -122,11 +122,8 @@ Monitor engagement:
 
 ## Contact
 
-**Marketing Lead:**
-
-**Justin Zhang**
-- Discord: justin_zhang
-- GitHub: [@voidcenter](https://github.com/voidcenter)
+**Yu**
+- Discord: crinvo
 
 ---
 
