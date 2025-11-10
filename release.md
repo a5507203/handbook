@@ -136,13 +136,6 @@ After release, see [Announcements](announcement) for sharing with community.
 - **Discord:** sonichi
 - **GitHub:** [@sonichi](https://github.com/sonichi)
 
-**Release Documentation:**
-
-**Henry**
-- **Discord:** henry_weiqi
-- **GitHub:** [@Henry-811](https://github.com/Henry-811)
-
-
 ---
 
 [Home](index) | [Previous: Documentation Guide](documentation) | [Next: Announcements](announcement)

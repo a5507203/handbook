@@ -132,6 +132,11 @@ Update to reflect:
 
 ## Contact
 
+**Documentation Track:**
+
+**Henry**
+- **Discord:** henry_weiqi
+- **GitHub:** [@Henry-811](https://github.com/Henry-811)
 
 ---
 
